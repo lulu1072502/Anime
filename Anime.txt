@@ -1,7 +1,7 @@
 人中之龍 Powered by 日本統一 => 如龙 Powered by 日本统一 {[tmdbid=313635;type=tv;s=1]}
 被鄰國王太子溺愛的反派千金 => 被邻国王子溺爱的反派女主 {[tmdbid=295483;type=tv;s=1]}
 29 歲單身中堅冒險家的日常 => 29岁单身冒险家的日常 {[tmdbid=290667;type=tv;s=1]}
-龍族II 悼亡者之瞳 => 龍族 {[tmdbid=107255;type=tv;s=2]}
+[ANi] 龍族II 悼亡者之瞳 => 龍族 {[tmdbid=107255;type=tv;s=2]}
 青之壬生浪 第二季 芹澤暗殺篇 => 青之壬生浪 {[tmdbid=234776;type=tv;s=2]}
 DARK MOON： 月之神壇 => DARK MOON -黑之月：月之祭坛 {[tmdbid=271609;type=tv;s=1]}
 「憑妳也想討伐魔王？」被勇者小隊逐出隊伍，只好在王都自在過活 => 「凭你也想讨伐魔王？」被勇者小队逐出队伍，只好在王都自在过活  {[tmdbid=285357;type=tv;s=1]}
